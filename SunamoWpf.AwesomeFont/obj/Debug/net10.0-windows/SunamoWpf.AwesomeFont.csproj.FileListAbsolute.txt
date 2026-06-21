@@ -1,0 +1,16 @@
+E:\vs\Projects\WindowsNuGetPackages\SunamoWpf.AwesomeFont\SunamoWpf.AwesomeFont\obj\Debug\net10.0-windows\SunamoWpf.AwesomeFont.csproj.AssemblyReference.cache
+E:\vs\Projects\WindowsNuGetPackages\SunamoWpf.AwesomeFont\SunamoWpf.AwesomeFont\obj\Debug\net10.0-windows\SunamoWpf.AwesomeFont.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\Projects\WindowsNuGetPackages\SunamoWpf.AwesomeFont\SunamoWpf.AwesomeFont\obj\Debug\net10.0-windows\SunamoWpf.AwesomeFont.csproj.CoreCompileInputs.cache
+E:\vs\Projects\WindowsNuGetPackages\SunamoWpf.AwesomeFont\SunamoWpf.AwesomeFont\obj\Debug\net10.0-windows\SunamoWpf.AwesomeFont.sourcelink.json
+E:\vs\Projects\WindowsNuGetPackages\SunamoWpf.AwesomeFont\SunamoWpf.AwesomeFont\bin\Debug\net10.0-windows\SunamoWpf.AwesomeFont.deps.json
+E:\vs\Projects\WindowsNuGetPackages\SunamoWpf.AwesomeFont\SunamoWpf.AwesomeFont\bin\Debug\net10.0-windows\SunamoWpf.AwesomeFont.dll
+E:\vs\Projects\WindowsNuGetPackages\SunamoWpf.AwesomeFont\SunamoWpf.AwesomeFont\bin\Debug\net10.0-windows\SunamoWpf.AwesomeFont.pdb
+E:\vs\Projects\WindowsNuGetPackages\SunamoWpf.AwesomeFont\SunamoWpf.AwesomeFont\bin\Debug\net10.0-windows\SunamoWpf.Core.dll
+E:\vs\Projects\WindowsNuGetPackages\SunamoWpf.AwesomeFont\SunamoWpf.AwesomeFont\bin\Debug\net10.0-windows\SunamoWpf.SunamoUtils.dll
+E:\vs\Projects\WindowsNuGetPackages\SunamoWpf.AwesomeFont\SunamoWpf.AwesomeFont\bin\Debug\net10.0-windows\SunamoWpf.Core.pdb
+E:\vs\Projects\WindowsNuGetPackages\SunamoWpf.AwesomeFont\SunamoWpf.AwesomeFont\bin\Debug\net10.0-windows\SunamoWpf.SunamoUtils.pdb
+E:\vs\Projects\WindowsNuGetPackages\SunamoWpf.AwesomeFont\SunamoWpf.AwesomeFont\obj\Debug\net10.0-windows\SunamoWp.749CB12D.Up2Date
+E:\vs\Projects\WindowsNuGetPackages\SunamoWpf.AwesomeFont\SunamoWpf.AwesomeFont\obj\Debug\net10.0-windows\SunamoWpf.AwesomeFont.dll
+E:\vs\Projects\WindowsNuGetPackages\SunamoWpf.AwesomeFont\SunamoWpf.AwesomeFont\obj\Debug\net10.0-windows\refint\SunamoWpf.AwesomeFont.dll
+E:\vs\Projects\WindowsNuGetPackages\SunamoWpf.AwesomeFont\SunamoWpf.AwesomeFont\obj\Debug\net10.0-windows\SunamoWpf.AwesomeFont.pdb
+E:\vs\Projects\WindowsNuGetPackages\SunamoWpf.AwesomeFont\SunamoWpf.AwesomeFont\obj\Debug\net10.0-windows\ref\SunamoWpf.AwesomeFont.dll
