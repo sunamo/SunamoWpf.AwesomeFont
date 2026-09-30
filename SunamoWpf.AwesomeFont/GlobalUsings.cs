@@ -1,6 +1,4 @@
-global using SunamoWpf._public;
-global using SunamoWpf._sunamo;
-global using SunamoWpf.AwesomeFont;
+﻿global using SunamoWpf.AwesomeFont;
 global using SunamoWpf;
 global using System;
 global using System.Collections.Generic;
