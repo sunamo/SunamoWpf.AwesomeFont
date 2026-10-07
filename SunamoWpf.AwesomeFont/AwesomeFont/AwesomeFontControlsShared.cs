@@ -2,9 +2,9 @@ namespace SunamoWpf.AwesomeFont;
 
 public static partial  class AwesomeFontControls
 {
-    public static double ReturnFontSizeForTextNextToAwesomeIconWithSize(double h)
+    public static double ReturnFontSizeForTextNextToAwesomeIconWithSize(double height)
     {
-        var r = h - 20 - 5;
-        return r;
+        var fontSize = height - 20 - 5;
+        return fontSize;
     }
 }
